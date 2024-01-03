@@ -1,0 +1,4 @@
+video_loader:
+  ros__parameters:
+    pub_img_topic: "video_img"
+    hz: 30
